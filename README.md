@@ -4,8 +4,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Dev on **[Apollo11 RP](https://discord.gg/apollo11rp)**
-
 - 🌱 I’m currently learning **FiveM Natives , C++.**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/Salah1x64)**
