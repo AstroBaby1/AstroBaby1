@@ -4,11 +4,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **FiveM Natives , C++.**
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Salah1x64)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/AstroBaby1)**
 
-- 📫 How to reach me **! A11 ASTRO#0001 - Discord**
+- 📫 How to reach me **astro8360 - Discord**
 
 - ⚡ Fun fact **Coding - Sleeping - Studying - Play BasketBall**
 
